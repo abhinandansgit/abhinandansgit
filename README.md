@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhinandansgit
+- 👋 Hi, I’m @abhinandan
 - 👀 I’m interested in AI | ML
 - 🌱 I’m currently learning Python & data science
 - 💞️ I’m looking to collaborate on my Projects
